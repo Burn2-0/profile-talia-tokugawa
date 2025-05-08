@@ -5,10 +5,13 @@ Survey deadline: 6:00pm PT on Friday, May 23rd
 talia.tokugawa@gmail.com Switch accounts
  
 Not shared
- 
 Draft saved
-* Indicates required question
-What is your role with Burning Man? How are you involved in the Burning Man community? Check all that apply*
+
+`*` Indicates required question
+
+What is your role with Burning Man? How are you involved in the Burning Man community? 
+Check all that apply`*`
+
 * [ ] Volunteer/work with a Burning Man team
 * [ ] Volunteer with/bring a mutant vehicle/art piece/theme camp at Black Rock City
 * [x] Volunteer/work with a Regional Event
@@ -17,21 +20,21 @@ What is your role with Burning Man? How are you involved in the Burning Man comm
 * [x] Participate at Regional Event(s), in all our glory!
 * [ ] I have not been to any Burning Man events, but I’m curious!
 
-How often do you use Burning Man Hive? (Choose the most applicable answer)*
+How often do you use Burning Man Hive? (Choose the most applicable answer)`*`
 * [ ] Often (four or more times a month)
 * [ ] Sometimes (two or three times a month)
 * [x] Rarely (once a month or less)
 * [ ] Never (I do not have a Hive account)
 * [ ] I log on to Hive…
 
-(check every box that describes your use patterns):*
+(check every box that describes your use patterns):`*`
 * [ ] More as we get closer to the Burning Man event in Black Rock City
 * [ ] Only if there is a particular training or course I need or want to take
 * [x] To see what’s new
 * [x] To check my messages
 * [ ] To monitor the courses I created
 
-I use Hive to… (Choose your top three)*
+I use Hive to… (Choose your top three)`*`
 * [ ] Provide training for my team(s)
 * [ ] Contribute courses or training for a general audience
 * [x] Take the trainings I need for my work with Burning Man
@@ -41,7 +44,7 @@ I use Hive to… (Choose your top three)*
 * [ ] Keep in touch with other Burners
 * [ ] Share information other than courses or training with other Burners
 
-I enjoy… (Choose all that apply)*
+I enjoy… (Choose all that apply)`*`
 * [x] Taking courses at my own speed
 * [ ] The live learning sessions
 * [ ] Providing my teams with training they can take before landing on playa
@@ -49,24 +52,24 @@ I enjoy… (Choose all that apply)*
 * [x] Creating content to share
 * [x] Connecting with other Burners
 
-Hive improves my team’s training and learning experience:*
+Hive improves my team’s training and learning experience:`*`
 * [ ] True
 * [ ] False
 * [ ] Neither better nor worse
 * [x] N/A (we have not used Hive for any training)
 
-Hive improves my training and learning experience:*
+Hive improves my training and learning experience:`*`
 * [ ] True
 * [ ] False
 * [ ] Neither better nor worse
 * [x] N/A (I have not used Hive to take any training)
 
-Do you use Hive to connect with the Burning Man community?*
+Do you use Hive to connect with the Burning Man community?`*`
 * [ ] Yes, I have and/or I do
 * [ ] No, I haven’t, I’m not interested in that
 * [x] Oh, I didn’t think of Hive as a community space like that
 
-What are some functions you would like Hive to provide (ex. A Hive phone app)*
+What are some functions you would like Hive to provide (ex. A Hive phone app)`*`
 ---
 ((Yeah, A whole lotta bitching and moaning about my illegitimate ban from a regional  but sprinkled through this are some F'ing great ideas....))
 
@@ -154,7 +157,7 @@ Okay so as an actual List..
 
 ---
 
-What else should the team behind Hive know? How can we improve? What are we doing well? Give us feedback, suggestions, ideas, philosophies, cosmologies, and anything else you’d like to share: *
+What else should the team behind Hive know? How can we improve? What are we doing well? Give us feedback, suggestions, ideas, philosophies, cosmologies, and anything else you’d like to share: `*`
 
 ---
 
