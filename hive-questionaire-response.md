@@ -89,28 +89,28 @@ Prior to my ban... in fact the very project I had next up on my list to bring up
 I had been working on putting together a Github organization for use by the Regional.  Whilst initially it had been just to act as a store for code to be used by the regional. As I poked around within Github I turned it to be used for numerous other applications. 
 
 * As mentioned it had intended to be a store for code for use by the regional.
-[[https://github.com/Burn2-0/Burn2-Scripts]]
+  - [[https://github.com/Burn2-0/Burn2-Scripts]]
 
 * I then looked into the possibilities of making use of the project management features to provide a centralised location for dealing with projects. E.g. The regionals Website
-[[https://github.com/orgs/Burn2-0/projects/4]]
+  - [[https://github.com/orgs/Burn2-0/projects/4]]
 
 * There was also the possibility that it could be used for a method of communication with facilities for voting.... 
-[[https://github.com/orgs/Burn2-0/discussions]]
+  - [[https://github.com/orgs/Burn2-0/discussions]]
 
 * The closest I came to "Hive" was when I started to compile documentation... 
-[[https://github.com/Burn2-0/sl-documentation]]
+  - [[https://github.com/Burn2-0/sl-documentation]]
 
 * Unfortunately, My ban came in the middle of my doing all the above... As such I refused to hand over all my hardwork for the betterment of the regional. I felt justified in that as of the 5-6 given reasons for my ban I could completely destroy they were I given an appeal chance. Basically leaving just the unspoken reason to ban me... That being to bury a complaint made against a fragile ego. My complaint was that the leads had not followed ranger guidelines in dealing with a contentious subject thereby causing a months long slugfest. The result of which had it been acknowledged would have required for their acknowledging it had not been handled the best and were they good leads they would have held their hands up admitted "mea culpa" and then looked at how to do better next time. Instead they tried bury it and ended up loosing 2 in 5 burners from the event from one year to the next, causing massive damage to the reputation of the regional and significant damage to the mental health of more than a few now former Burners.
 If you want to find out more... You can visit another section of the Burn2 Github Org.
 
-[[https://github.com/Burn2-0/north-burnistan]]
+  - [[https://github.com/Burn2-0/north-burnistan]]
 
 (So named due to the banana republik bungling attempted authoritarian fictional place I invented to hold up a mirror to Burn2 to see what a shitshow things became... Something I had fully intended to be something that once they realised their idiocy and reversed my ban I would have removed it and handed over primary control to the regional.... The idiocracy remains...)
 
 * There were a few other things I added that I figured where actually good ideas.
 The Burn2 Accord Section. There were numerous occasions since my ban where my writing a whole lot of policy documents came up. Which was where I realised that "Legalese Code" could actually be dealt with via a Git Repo, That doing policy via a Git Repo encouraged participation, community effort and civic responsibility. As Git Repo Facilitates Bottom Up Management better than it does Top Down. 
 (I also loved the idea of a burn of group of burners circling up some artcars, cobbling together toga from sheets and having some Roman Forum Style Political discussions deep playa.. concept image included in following link...)
-[[https://github.com/Burn2-0/Burn2-Accord]]
+  - [[https://github.com/Burn2-0/Burn2-Accord]]
 
   - One thing that they might still be working on (2 years aprx for the official version encounting) 
   was bylaws.  To prove a point about how much they were dawdling over something I was 
@@ -121,7 +121,7 @@ The Burn2 Accord Section. There were numerous occasions since my ban where my wr
   done.  Mine took a few days to get to a state where I was ready for people to check them 
   out... And in the process of writing them I took myself from being "Pissed off, I'll show you 
   '*mic drop*'" to being re-inspired by the 10p and the meaning of the Burn.  
-  [[https://github.com/Burn2-0/Burn2-Accord/blob/main/Draft/By-Laws-Talia/index.md]]
+    - [[https://github.com/Burn2-0/Burn2-Accord/blob/main/Draft/By-Laws-Talia/index.md]]
 
   - Another example came when I stumbled across a rather significant data breach. I had not 
   really been looking for it. But due to my RL work once I found it I could not ignore it. So I 
@@ -140,7 +140,7 @@ The Burn2 Accord Section. There were numerous occasions since my ban where my wr
   volunteers and performers all that was done was complete they "OMG DO THIS NOW!!!" first 
   step which was to make a text file in a particular directory and call the blank text file 
   "Index.html"..... 
-  [[https://github.com/Burn2-0/Burn2-Accord/tree/main/Standards]]
+    - [[https://github.com/Burn2-0/Burn2-Accord/tree/main/Standards]]
 
   - It was also quite useful for keep 3rd party rules and regulations so people knew where they were... 
   E.g. [[https://github.com/Burn2-0/Burn2-Accord/blob/main/ThirdParty/BM/HarassmentDiscriminationRetaliastionPolicy.md]]
