@@ -70,8 +70,10 @@ Do you use Hive to connect with the Burning Man community?`*`
 * [x] Oh, I didn’t think of Hive as a community space like that
 
 What are some functions you would like Hive to provide (ex. A Hive phone app)`*`
+
 ---
-((Yeah, A whole lotta bitching and moaning about my illegitimate ban from a regional  but sprinkled through this are some F'ing great ideas....))
+
+*((Yeah, A whole lotta bitching and moaning about my illegitimate ban from a regional  but sprinkled through this are some F'ing great ideas....))*
 
 I've mentioned to people at the Hive that I was apart of Burn2 in Second Life. I was banned from it for completely illegitimate reasons. And I remain banned due to pandaing to "a big name" despite their fall from competence to adhere to the 10 principles let alone the ranger handbook. 
 
@@ -149,11 +151,7 @@ The Burn2 Accord Section. There were numerous occasions since my ban where my wr
 Okay so as an actual List.. 
  * Deep integration with GitHub...
  * Significant AI Support including Semantic Search Capabilities,  and possibly if there could be NotebookLM style functionalities that would be MARVELOUS!..
-  (( Another thing that has come from my ban, as I was disallowed from doing anything 
-     productive except for look for ways to try defend myself from injustice and slander. Ended 
-     up compiling a NoteBookLM workbook with around 2.5 million words worth of info 
-     surrounding Burn2. Burning Man and Second Life... SOOOOOO Useful... Like you wouldn't 
-     believe ;) ))
+  *(( Another thing that has come from my ban, as I was disallowed from doing anything productive except for look for ways to try defend myself from injustice and slander. Ended up compiling a NoteBookLM workbook with around 2.5 million words worth of info surrounding Burn2. Burning Man and Second Life... SOOOOOO Useful... Like you wouldn't believe ;) ))*
 
 ---
 
